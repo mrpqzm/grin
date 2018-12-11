@@ -8,7 +8,9 @@ Grin's programming language `rust` has build targets for most platforms.
 What's working so far?
 
 * Linux x86\_64 and MacOS [grin + mining + development]
-* Not Windows 10 yet [grin kind-of builds. No mining yet. Help wanted!]
+* There is currently no implementation for Windows 10 [grin kind-of builds. No mining yet. Help wanted!]
+* Linux-based subsystem for Windows 10 (like Bash) do not work as they don't support multiple in-memory databases, which grin relies on
+
 
 ## Requirements
 
