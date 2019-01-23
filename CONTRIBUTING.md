@@ -8,6 +8,7 @@ Additional tests are rewarded with an immense amount of positive karma.
 
 More documentation or updates/fixes to existing documentation are also very welcome. However, if submitting a PR(Pull-Request) consisting of documentation changes only, please try to ensure that the change is significantly more substantial than one or two lines. For example, working through an install document and making changes and updates throughout as you find issues is worth a PR. For typos and other small changes, either contact one of the developers, or if you think it's a significant enough error to cause problems for other users, please feel free to open an issue.
 
+
 # Find Us
 
 If any help is needed during your effort to contribute on this project, please don't hesitate to contact us:
